@@ -33,3 +33,11 @@ iris_graph
 ggplotly(iris_graph)
 
 ```
+
+### Now I'll make an interactive table with DT
+
+```{r}
+
+datatable(msleep)
+
+```
